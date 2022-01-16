@@ -19,6 +19,8 @@ What you will find in this notebook:
 Course in the Data Science Fundamentals with Python and SQL Specialization from IBM
 #tesla #data #datascience #gamestop #python #pythonfordatascience #ibm #ibmcloud #ibmwatson #jupyternotebook
 
+https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3e2b7209-d39d-4e07-9038-9c079c322c7c/view?access_token=50292cda9f51aa97ef7b32cc19c461ab6738605341cf9956afbd90ad0044b874
+
 ![gme_stock_data](https://user-images.githubusercontent.com/65928388/149645118-b9689b8f-c513-4477-b8ee-b9da77fad6f7.png)
 ![tesla_stock_data](https://user-images.githubusercontent.com/65928388/149645122-01be5c7a-1410-4b06-8723-eb2d9482b24d.png)
 
